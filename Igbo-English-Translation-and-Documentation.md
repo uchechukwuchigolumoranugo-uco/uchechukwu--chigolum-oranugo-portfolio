@@ -18,3 +18,8 @@ This experience has strengthened my ability to understand context, select approp
 - Research and fact-checking
 - Adapting content for different audiences
 - Clear and culturally appropriate communication
+## Selected Published Work
+
+My translation and journalism work has been published through Voice of Nigeria (VON). This section will provide links to selected publicly available examples of my work, where appropriate.
+
+The links will allow readers and potential collaborators to view examples of my translation, journalism and digital media work.
