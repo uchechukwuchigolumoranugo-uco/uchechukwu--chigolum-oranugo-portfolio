@@ -23,4 +23,4 @@ I am developing practical skills in AI, data analytics, Agile methodology, digit
 I have completed training in areas including:
 
 - AI for Beginners
-- AI for Profession
+- AI for Professionals 
