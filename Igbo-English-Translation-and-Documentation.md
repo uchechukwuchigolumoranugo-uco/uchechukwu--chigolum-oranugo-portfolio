@@ -36,3 +36,16 @@ The links will allow readers and potential collaborators to view examples of my 
 **Published:** August 21, 2026
 
 **Published Work:** https://vonlanguages.ng/igbo/2026/08/21/ulo-nnochiteanya-kwenyere-na-nhoputa-2027-ga-abu-nke-ziri-ezi/
+### Example 2
+
+**Title:** Ụgbọelu Charter Nwere Ihe Mberede Na Alaska, Mmadụ Asatọ Anwụọ
+
+**Organization:** Voice of Nigeria (VON)
+
+**Translator:** Chigolum Oranugo
+
+**Language:** English → Igbo
+
+**Published:** August 21, 2026
+
+**Published Work:** https://vonlanguages.ng/igbo/2026/08/21/ugboelu-charter-nwere-ihe-mberede-na-alaska-mmadu-asato-anwuo/
